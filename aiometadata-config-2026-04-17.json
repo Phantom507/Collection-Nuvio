@@ -2196,24 +2196,6 @@
         "displayType": "anime"
       },
       {
-        "id": "anilist.Watching",
-        "name": "Watching",
-        "type": "anime",
-        "enabled": true,
-        "showInHome": true,
-        "source": "anilist",
-        "sort": "UPDATED_TIME",
-        "sortDirection": "desc",
-        "metadata": {
-          "username": "Phantom507",
-          "listName": "Watching",
-          "itemCount": 34,
-          "isCustomList": false,
-          "url": "https://anilist.co/user/Phantom507/animelist/Watching"
-        },
-        "cacheTTL": 86400
-      },
-      {
         "id": "mdblist.99497",
         "type": "movie",
         "name": "DC Universe",
