@@ -99,11 +99,6 @@
         "catalogSources": [
           {
             "addonId": "aio-metadata",
-            "catalogId": "anilist.Watching",
-            "type": "anime"
-          },
-          {
-            "addonId": "aio-metadata",
             "catalogId": "mal.airing",
             "type": "anime"
           },
